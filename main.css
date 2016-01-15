@@ -8,6 +8,8 @@ p {
 footer { color: white;
      background-color: black;}
 
-section { background-color: forestgreen }
+section { background-color: forestgreen;
+    margin: 1em;
+}
 
 header { color: darkgray; }
