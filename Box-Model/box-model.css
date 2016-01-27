@@ -19,9 +19,13 @@ footer {
     
         
 }
-header { background-color: lightgray;
-    margin: 6px;
+a {
+    color: grey;
+}
+header { background-color: lightgrey;
+    margin: 2px;
     padding: 1px;
+    
 }
 .res img { 
     margin: 5px;
@@ -30,4 +34,8 @@ header { background-color: lightgray;
 }
 .res span {
     display: block;
+}
+res. {
+    text-align: left;
+    float: left
 }
