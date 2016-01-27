@@ -27,15 +27,11 @@ header { background-color: #DEE5EB;
     padding: 1px;
     
 }
-.res img { 
+.img { 
     margin: 5px;
     display: inline;
     border: 2px dotted darkgray;
-}
-.res span {
     display: block;
-}
-res. {
     text-align: left;
     float: left;
 }
