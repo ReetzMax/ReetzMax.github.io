@@ -26,9 +26,6 @@ header { background-color: #DEE5EB;
     margin: 2px;
     padding: 1px; 
 }
-p {
-float:left
-}
 .img { 
     margin: 5px;
     border: 2px dotted darkgray;
