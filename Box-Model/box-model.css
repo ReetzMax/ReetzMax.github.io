@@ -29,8 +29,8 @@ header { background-color: #DEE5EB;
 .img { 
     margin: 5px;
     border: 2px dotted darkgray;
-    text-align: left;
     float: left;
+    margin-right: 5px;
 }
 nav > a { 
     background-color: #96A1A3;
