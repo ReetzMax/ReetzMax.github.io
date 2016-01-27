@@ -30,7 +30,6 @@ header { background-color: #DEE5EB;
 .img { 
     margin: 5px;
     border: 2px dotted darkgray;
-    display: block;
     text-align: left;
     float: left;
 }
