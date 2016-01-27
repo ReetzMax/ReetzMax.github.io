@@ -28,9 +28,11 @@ header { background-color: #DEE5EB;
 }
 .img src{ 
     margin: 5px;
-    border: 2px dotted darkgray;
-    float: left;
+    border: 2px dashed darkgray;
     margin-right: 5px;
+}
+div-class "article-copy" {
+    float: left
 }
 nav > a { 
     background-color: #96A1A3;
