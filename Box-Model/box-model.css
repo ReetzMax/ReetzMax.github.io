@@ -4,7 +4,6 @@ body {
 
 * {
   box-sizing: border-box;
-    margin: 8px
 }
 
 #wrapper {
@@ -23,7 +22,7 @@ a {
     color: grey;
 }
 header { background-color: #DEE5EB;
-    margin: 2px;
+    margin: 5px;
     padding: 1px; 
 }
 .img style{ 
