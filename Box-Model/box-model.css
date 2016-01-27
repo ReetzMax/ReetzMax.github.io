@@ -4,6 +4,7 @@ body {
 
 * {
   box-sizing: border-box;
+    background-color: white;
 }
 
 #wrapper {
@@ -11,4 +12,18 @@ body {
   width: 800px;
   margin: 0 auto;
 }
-* { background-color: lightgrey;}
+footer {
+    border: 2px dashed black
+        
+}
+header { background-color: lightgray;
+    margin: 6px;
+    padding: 10px;
+}
+.res img { 
+    margin: 5px;
+    display: inline
+}
+.res span {
+    display: block;
+}
