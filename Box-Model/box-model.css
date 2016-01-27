@@ -43,3 +43,6 @@ nav > a {
     display: inline-block;
     border-radius: 5px;
 }
+footer h4 {
+    margin: 0 0 10px 0;
+}
