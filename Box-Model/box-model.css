@@ -13,16 +13,16 @@ body {
   margin: 0 auto;
 }
 a:link {
-    background-color: lightgrey;
+    background-color: #3F688F;
     color: white;
     padding: 3px 5px;
     text-align: center;
     display: inline-block
 }
 footer {
-    border: 2px dashed lightgray;
+    border: 2px dashed ;
     margin: 5px;
-    padding: 5px;
+    padding: 15px;
     background-color: none;
         
 }
