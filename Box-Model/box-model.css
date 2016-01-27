@@ -46,3 +46,11 @@ res. {
     text-align: left;
     float: left;
 }
+nav > a { 
+    background-color: #3F688F;
+    color: white;
+    padding: 5px 10px;
+    text-align: center;
+    display: inline-block;
+    border-radius: 5px;
+}
