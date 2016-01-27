@@ -12,11 +12,18 @@ body {
   width: 800px;
   margin: 0 auto;
 }
+a:link {
+    background-color: lightgrey;
+    color: white;
+    padding: 3px 5px;
+    text-align: center;
+    display: inline-block
+}
 footer {
     border: 2px dashed lightgray;
     margin: 5px;
     padding: 5px;
-    
+    background-color: none;
         
 }
 a {
@@ -38,11 +45,4 @@ header { background-color: lightgrey;
 res. {
     text-align: left;
     float: left;
-}
-a:link {
-    background-color: lightgrey;
-    color: white;
-    padding: 3px 5px;
-    text-align: center;
-    display: inline-block
 }
