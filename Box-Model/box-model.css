@@ -30,6 +30,7 @@ header { background-color: #DEE5EB;
     margin: 5px;
     border: 2px dashed darkgray;
     margin-right: 5px;
+    float: left
 }
 div-class "article-copy" {
     float: left
