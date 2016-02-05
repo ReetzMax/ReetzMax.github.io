@@ -1,0 +1,65 @@
+* { box-sizing: border-box; 
+}
+
+.main-container {
+width: 1000px; 
+    margin: 0 auto 0 auto;
+}
+
+.promo-container {
+background: lightgray;
+}
+
+header {
+ display: flex;
+}
+
+.branding {
+ background: black;
+    width: 150px;
+    height: 45px;
+    margin-right: auto;
+}
+
+header a { 
+    font: 72px;
+    color: white;
+    padding: 10px 30px 10px 30px;
+    text-align: center;
+    display: inline-block;
+    border-radius: 20px;
+    border-color: black;
+    border-width: 1px;
+    border-style: inset;
+    text-decoration: none;
+    background-color: gray;
+}
+/* Big promo */
+#big-promo { 
+    padding-top: 200px; 
+}
+
+.promo-message { 
+    width: 60%;
+    padding: 50px; 
+}
+
+.pill-button { 
+font: 72px;
+    color: white;
+    padding: 10px 30px 10px 30px;
+    text-align: center;
+    display: inline-block;
+    border-radius: 20px;
+    border-color: black;
+    border-width: 1px;
+    border-style: inset;
+    text-decoration: none;
+    background-color: gray;
+}
+
+.promo {
+ background: white;
+    color: black;
+    font-size: 16px;
+}
