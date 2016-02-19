@@ -1,6 +1,6 @@
 #part-one {
     display: block;
-    border-width: 2px;
+    border-width: 3px;
     border-color: black;
     border-style: inset;
     width: 960px;
@@ -38,7 +38,7 @@
     
 .promo {
     display: block;
-    border-width: 2px;
+    border-width: 3px;
     border-color: black;
     border-style: inset;
     width: 960px;
@@ -77,18 +77,19 @@
     
 .blah {
     display: block;
-    border-width: 5px;
+    border-width: 3px;
     border-color: black;
     border-style: inset;
     width: 960px;
     height: 570px;
-    margin: 20px;
+    margin: auto;
 }
   
 #box_9 { 
 	width: 920px;
 	height: 120px;
 	background: #44accf;
+    margin: 20px;
 }
 
 #box_10 { 
@@ -96,12 +97,15 @@
 	height: 395px;
 	background: #b7d84b;
     float: right;
+    margin-left: 20px;
+    margin-right: 20px;
 }
 #box_11 {
     width: 730px;
     height: 395px;
     background: #a23e32;
-    float: left;
+   margin-left: 20px;
+    margin-right: 20px;
 }
     
     
