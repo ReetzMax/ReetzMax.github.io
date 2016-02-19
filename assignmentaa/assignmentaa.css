@@ -34,7 +34,7 @@
     height: 200px;
     background: #a23e32;
     float: right;
-    
+}
     
 .promo {
     display: block;
@@ -46,11 +46,10 @@
     margin: auto;
     margin-bottom: 130px
 }
-}
 #box_5 { 
 	width: 240px;
 	height: 570px;
-	background: #ee3e64;
+	background: #ea3e64;
     float: right;
 }
 
@@ -76,11 +75,34 @@
    
 }
     
-    
-    
-    
-    
-    
+.blah {
+    display: block;
+    border-width: 5px;
+    border-color: black;
+    border-style: inset;
+    width: 960px;
+    height: 570px;
+    margin: 20px;
+}
+  
+#box_9 { 
+	width: 920px;
+	height: 120px;
+	background: #44accf;
+}
+
+#box_10 { 
+	width: 175px;
+	height: 395px;
+	background: #b7d84b;
+    float: right;
+}
+#box_11 {
+    width: 730px;
+    height: 395px;
+    background: #a23e32;
+    float: left;
+}
     
     
     
