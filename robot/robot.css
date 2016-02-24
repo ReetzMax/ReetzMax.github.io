@@ -2,7 +2,7 @@
   box-sizing: border-box;
 }
 
-.head, .chest, .core, .waist, .button, .left-foot, .right-foot {
+.head, .chest, .core, .waist, .button, .left-foot, .right-foot, .mouth {
   position: absolute;
   left: 0;
   right: 0;
@@ -11,19 +11,23 @@
 
 .robot {
   position: relative;
-  width: 500px;
+  width: 450px;
   margin: 50px auto;
 }
 
 .head {
   position: relative;
   width: 90px;
-  height: 60px;
+  height: 80px;
   border: 2px solid gray;
   background: white;
     border-top-left-radius: 50%;
     border-top-right-radius: 50%;
     
+}
+
+.mouth {
+ 
 }
 
 .atenna {

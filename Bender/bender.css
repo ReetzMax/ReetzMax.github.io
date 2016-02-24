@@ -1,0 +1,118 @@
+* {
+    box-sizing: border-box;
+}
+
+.robot {
+    position: relative;
+    width: 500px;
+    margin: 50px auto;
+}
+
+.head, .bottom {
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;
+    top: 50px;
+}
+
+.stem {
+ height: 30px;
+width: 8px;
+border: 2px solid gray;
+    position: relative;
+    left: 247px;
+    top: 53px;
+}
+
+.bulb{
+    width: 20px;
+    height: 20px;
+    left: 241px;
+    position: relative;
+    border: 2px solid gray;
+    border-radius: 50%;
+    top: 55px;
+}
+
+.head {
+  position: relative;
+  width: 90px;
+  height: 100px;
+  border: 2px solid gray;
+  background: white;
+  border-top-left-radius: 50%;
+  border-top-right-radius: 50%;
+}
+
+.eye {
+    width: 25px;
+    height: 25px;
+    border: 2px solid gray;
+    position: absolute;
+    top: 25px;
+    border-radius: 40%;
+}
+
+.left-eye {
+    width: 25px;
+    height: 25px;
+    border: 2px solid gray; 
+    position: absolute;
+    border-radius: 40%;
+    right: 15px;
+    top: 25px;
+}
+
+.right-eye {
+    width: 75px;
+    height: 27px;
+    border: 2px solid gray;
+    border-radius: 25%;
+    position: absolute;
+    top: 25px;
+}
+
+.mouth {
+    position: absolute;
+    width: 70px;
+    height: 30px;
+    border: 2px solid gray;
+    border-radius: 10%;
+    top: 60px;
+    overflow: hidden;
+}
+
+.body {
+    width: 180px;
+    height: 250px;
+    top: 150px;
+    border-top-left-radius: 30%;
+    border-top-right-radius: 30%;
+    border-bottom-left-radius: 10%;
+    border-bottom-right-radius: 10%;
+    position: relative;
+    right: -160px;
+    border: 2px solid gray;
+    top: 50px;
+}
+
+.chest-plate {
+    border: 5px solid gray;
+    width: 120px;
+    height: 160px;
+    border-radius: 20%;
+    position: relative;
+    left: 185px;
+    top: -150px;
+}
+
+.handle {
+    position: relative;
+    width: 10px;
+    height: 40px;
+    top: -255px;
+    left: 280px;
+    border: 2px solid gray;
+    background: gray;
+}
