@@ -38,6 +38,7 @@ top: 850px
 }
 
 .letter-spacing {
+    font-family: Palatino;
     letter-spacing: 3px;
     text-decoration-color: red;
     text-decoration: line-through;
