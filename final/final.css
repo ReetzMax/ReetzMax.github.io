@@ -1,0 +1,15 @@
+*{}
+
+header a {
+    display: inline-block;
+    margin: 12px;
+    border-color: cornflowerblue;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 10px;
+    padding: 5px 10px 5px 10px;
+}
+
+a:hover {
+    background-color: royalblue;
+}
