@@ -1,5 +1,13 @@
 *{}
 
+header {
+    display: inline-block;
+    width: 1400px;
+    background-color: lightgray;
+    border-width: 5px;
+    border-color: black;
+}
+
 header a {
     display: inline-block;
     margin: 12px;
