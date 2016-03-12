@@ -28,6 +28,8 @@ header a {
     margin-top: 30px;
     margin-left: 30px;
     font-size: 25px;
+    background-color: blueviolet;
+    color: black
 }
 
 header img {
@@ -39,6 +41,14 @@ a:hover {
     background-color: royalblue;
 }
 
+a:visited {
+    color: none;
+}
+
+a:link {
+    text-decoration: none;
+}
+
 .homepage-signup {
     background-image: url(photo_homepage_top.jpg);
     background-size: cover;
@@ -47,20 +57,37 @@ a:hover {
     width: 1200px;
     height: 800px;
     overflow: hidden;
-    
 }
-
-
 
 .homepage-signup h1 {
     font-size: 100px;
     text-align: center;
-    margin-top: 250px  
+    margin-top: 200px  
 }
 
 .homepage-signup p {
     font-size: 25px;
     width: 600px;
-    margin-top: 100px;
+    margin-top: 50px;
+}
+
+.homepage-signup a {
+    display: inline-block;
+    margin: 12px;
+    border-color: cornflowerblue;
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 10px;
+    padding: 5px 10px 5px 10px;
+    text-align: center;
+    font-size: 50px;
+    background-color: white;
+    color: black;
+    margin-left: 475px;
+    margin-top: 50px;
+}
+
+.homepage-signup a:hover {
+    background-color: blueviolet;
 }
 
