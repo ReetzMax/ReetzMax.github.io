@@ -390,6 +390,7 @@ img #firstchild {
     text-align: center;
     width: 600px;
     position: relative;
+    right: -25px;
 }
 
 .convinced a {
