@@ -164,7 +164,7 @@ a:link {
 }
 
 footer {
-    margin-top: 80px;
+    margin-top: 60px;
     float: right;
     width: 1200px;
     text-align: right;
@@ -385,4 +385,31 @@ img #firstchild {
     border-color: black;
 }
 
+.convinced {
+    margin-top: 70px;
+    text-align: center;
+    width: 600px;
+    position: relative;
+}
 
+.convinced a {
+    position: relative;
+    top: 80px;
+    font-size: 25px;
+    border-radius: 10px;
+    padding: 10px 55px;
+    border-style: solid;
+    border-color: black;
+}
+
+.convinced h4 {
+    font-size: 20px;
+    font-weight: 100;
+    word-spacing: 8px;
+}
+
+.convinced h3 {
+    font-weight: 600;
+    font-size: 50px;
+    margin-bottom: 20px;
+}
