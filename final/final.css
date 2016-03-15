@@ -191,13 +191,30 @@ footer a:link {
 .blog_post {
     font-size: 20px;
     margin-top: 50px;
-    word-spacing: 8px;
-    
+    word-spacing: 8px; 
 }
 
-img #firstchild {
-   float: right; 
+.firstimage {
+    float: right;
+    position: relative;
+    bottom 100px;
+    margin: 10px;
 }
+
+.blog_post p {
+    word-spacing: 12px;
+    line-height: 35px
+}
+
+.blog_post h1 {
+    line-height: 100px;
+}
+
+.secondimage {
+    float:left;
+    position: relative;
+    margin: 10px;
+} 
 
 .first_feature {
     width: 560px;
